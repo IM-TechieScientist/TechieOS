@@ -14,9 +14,11 @@ The OS has support for auto resizing the partition of the boot drive which you f
 There is support for USB booting as well..
 
 Download the Rar File(Note:You need to un-compress it manually and then flash the OS):
+
 https://drive.google.com/file/d/18wzYbue8_oXv8Myqst6W-skZYsD27adf/view
 
 Download the Flash ready .img file:
+
 https://drive.google.com/file/d/1ktkzlO5RQk6GCDf8FGKR1P7JUP2xTBcd/view?usp=sharing
 
 
