@@ -26,11 +26,17 @@ https://www.youtube.com/watch?v=fmRa4EEHnqE
 
 
 
-Feature:
+Features:
+
 Pi-apps pre-installed
+
 Ubuntu Software support
+
 Sci-fi looks
+
 Good 64-bit performance
+
 Custom Neofetch ASCII and name
+
 Many more coming up in updates..
 
