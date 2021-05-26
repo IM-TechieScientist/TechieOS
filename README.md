@@ -21,5 +21,16 @@ Download the Flash ready .img file:
 
 https://drive.google.com/file/d/1ktkzlO5RQk6GCDf8FGKR1P7JUP2xTBcd/view?usp=sharing
 
+If you want the demo or want to know how it looks and performs..check out my video on it:
+https://www.youtube.com/watch?v=fmRa4EEHnqE
 
+
+
+Feature:
+Pi-apps pre-installed
+Ubuntu Software support
+Sci-fi looks
+Good 64-bit performance
+Custom Neofetch ASCII and name
+Many more coming up in updates..
 
