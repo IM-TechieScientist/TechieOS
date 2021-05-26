@@ -28,15 +28,15 @@ https://www.youtube.com/watch?v=fmRa4EEHnqE
 
 Features:
 
-Pi-apps pre-installed
+1)Pi-apps pre-installed
 
-Ubuntu Software support
+2)Ubuntu Software support
 
-Sci-fi looks
+3)Sci-fi looks
 
-Good 64-bit performance
+4)Good 64-bit performance with Inbuilt Overclock of 2.0Ghz on CPU and 800Mhz on the GPU
 
-Custom Neofetch ASCII and name
+5)Custom Neofetch ASCII and name
 
 Many more coming up in updates..
 
